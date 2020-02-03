@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54E6C9B7-3914-4D80-98B2-00C47004F032"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8534D4FB-0043-401F-9D99-FB2E06AB9386"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalKadai/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "optionBox(messageTitle:messageAlert:alertActionStyle:firstButtonTitle:secondButtonTitle:handleOnClickFirstButton:handleOnClickSecondButton:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8534D4FB-0043-401F-9D99-FB2E06AB9386 - 6c28ec9ab4082cff"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalKadai.ViewController.optionBox(messageTitle: Swift.String, messageAlert: Swift.String, alertActionStyle: __C.UIAlertActionStyle, firstButtonTitle: Swift.String, secondButtonTitle: Swift.String, handleOnClickFirstButton: () -&gt; (), handleOnClickSecondButton: () -&gt; ()) -&gt; ()"
+                  moduleName = "FinalKadai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alvinendratno/Documents/Xcode/FinalKadai/FinalKadai/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "8534D4FB-0043-401F-9D99-FB2E06AB9386 - 65ec4a6500e253d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in FinalKadai.ViewController.optionBox(messageTitle: Swift.String, messageAlert: Swift.String, alertActionStyle: __C.UIAlertActionStyle, firstButtonTitle: Swift.String, secondButtonTitle: Swift.String, handleOnClickFirstButton: () -&gt; (), handleOnClickSecondButton: () -&gt; ()) -&gt; ()"
+                  moduleName = "FinalKadai"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alvinendratno/Documents/Xcode/FinalKadai/FinalKadai/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
